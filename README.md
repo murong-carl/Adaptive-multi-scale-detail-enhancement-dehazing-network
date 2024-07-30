@@ -1,1 +1,7 @@
 # Adaptive-multi-scale-detail-enhancement-dehazing-network-for-autonomous-driving-perception-images
+### Juan Wang, Sheng Wang, Minghu Wu, Hao Yang, Ye Cao, Shuyao Hu, Jixiang Shao, Chunyan Zeng
+### In hazy weather conditions, a significant accumulation of haze poses a severe challenge to the quality of image capture for autonomous driving systems, thereby heightening safety risks for autonomous vehicles. To solve this problem, we propose the adaptive multi-scale detail enhancement dehazing network, an innovative architecture comprising the initial feature extraction module, the multi-scale adaptive feature module, and the terminal detail enhancement module, specifically designed to eradicate haze with precision.
+### Prerequisites：
+#### Python >= 3.6，Pytorch >= 1.0，Torchvision >= 0.2.2，Pillow >= 5.1.0，Numpy >= 1.14.3，Scipy >= 1.1.0
+### Dataset：
+#### This article uses the publicly available RESIDE dataset for training and testing and has undergone data augmentation. The RESIDE dataset consists of 5 subsets, two of which are indoor training sets (ITS) and outdoor training sets (OTS), and three are test sets, namely comprehensive objective test set (SOTS), mixed subjective test set (HSTS), and real foggy image test set (RTTS). This article selects road scene images from outdoor training sets (OTS) that conform to autonomous driving perception images and expands the data. You can download the RESIDE dataset from (https://sites.google.com/view/reside-dehaze-datasets/reside-v0?authuser=0).
