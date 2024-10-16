@@ -1,4 +1,4 @@
-# Adaptive-multi-scale-detail-enhancement-dehazing-network-for-autonomous-driving-perception-images
+# Adaptive multi-scale detail enhancement dehazing network for autonomous driving perception images
 ### Juan Wang, Sheng Wang, Minghu Wu, Hao Yang, Ye Cao, Shuyao Hu, Jixiang Shao, Chunyan Zeng
 ### In hazy weather conditions, a significant accumulation of haze poses a severe challenge to the quality of image capture for autonomous driving systems, thereby heightening safety risks for autonomous vehicles. To solve this problem, we propose the adaptive multi-scale detail enhancement dehazing network, an innovative architecture comprising the initial feature extraction module, the multi-scale adaptive feature module, and the terminal detail enhancement module, specifically designed to eradicate haze with precision.
 ### Prerequisites：
